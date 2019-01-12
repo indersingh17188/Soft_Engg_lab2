@@ -11,4 +11,6 @@ bool Prime(int x,int y);
 void ArraysExample1();
 void MultMatrix(int a[][3], int b[][3], int c[][3]);
 
+//to see the changes
+
 
