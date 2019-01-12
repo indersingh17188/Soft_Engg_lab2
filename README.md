@@ -4,7 +4,8 @@ Laboratory no 2 for Software Engineering MSCV 2018-2020
 This lab was all about Functions, arrays, and pointers. 
 
 1 Preliminaries
-Create and add to your project two files called Labs2.h and Labs2. Labs2.h  (it is your first personal header file and is going to contain all the signatures of the procedures and functions that will be implemented in the Labs2.cpp file. It may also contain variable definitions. 
+Create and add to your project two files called Labs2.h and Labs2.cpp.
+Labs2.h  (it is your first personal header file and is going to contain all the signatures of the procedures and functions that will be implemented in the Labs2.cpp file. It may also contain variable definitions. 
 
 2.2 How to pass parameters to a function
 2.2.1 On passing parameters by value or by reference
@@ -13,7 +14,7 @@ to swap two values. Display the final values just before the end of each functio
 
 
 2.2.2 On passing parameters using pointers
-Same question as before, but will now use pointers. Explain the differences with the previous question.
+Same question as before, but will now use pointers. Explain the differences with the previous question.
 
 
 2.3 Multiple returned values
